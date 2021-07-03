@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Jamtin</h2>
+<img alt="Night Coding" src="./handwave.gif" width='40' align="left"/><h2>Hey there! I'm Jamtin</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Jamtin -->
 
@@ -9,7 +9,7 @@
 ✍️ &nbsp;In my free time, I pursue Blog Writing and Note Review as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting or just for some interesting discussion.
 
-<img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="./Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
