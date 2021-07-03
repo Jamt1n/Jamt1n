@@ -9,7 +9,7 @@
 ✍️ &nbsp;In my free time, I pursue Blog Writing and Note Review as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting or just for some interesting discussion.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
